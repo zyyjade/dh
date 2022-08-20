@@ -1,20 +1,17 @@
 # title of website
-title: zyyjade.github.io
+title: 张小鱼
 
 # description of website
-description: zyyjade's navigation site
+description: 张小鱼的收藏夹
 
 # favicon of website
 favicon: "https://github.com/zyyjade.png?size=40"
 
 # your website url
-url: https://zyyjade.github.io/zyyjade.github.io/
-
-# github profile url
-github: "https://github.com/zyyjade"
+url: https://zyyjade.github.io
 
 # footer message
-footer: © 2021-2021 @zyyjade
+footer: © 2022-2022 @zyyjade
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
