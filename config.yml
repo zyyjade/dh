@@ -52,8 +52,7 @@ content:
         - name: 站酷
           description: 中国人气设计师互动平台
           url: http://www.zcool.com.cn/
-    - name: 设计·素材
-      sites:
+----------------------------------------------------------
         - name: 365PSD
           description: PSD、图形和矢量文件免费下载
           url: https://365psd.com/
