@@ -1,8 +1,6 @@
 # title of website
-title: 张小鱼
-
-# favicon of website
-favicon: "https://github.com/zyyjade.png?size=40"
+- title: 张小鱼
+  favicon: "https://github.com/zyyjade.png?size=40"
 
 # description of website
 description: 张小鱼的收藏夹
