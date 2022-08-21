@@ -61,9 +61,33 @@ content:
         - name: 知微事见
           description: 微博热点趋势分析
           url: https://ef.zhiweidata.com/
-        - name: 199IT
-          description: Awwwards talent and effort of the best developers, designers and web agencies in the world.
-          url: https://www.awwwards.com/
+        - name: HiPPTer
+          description: PPT资源导航
+          url: http://www.hippter.com/
+        - name: ILovePDF
+          description: PDF编辑
+          url: https://www.ilovepdf.com/zh-cn
+        - name: PDF24
+          description: PDF编辑
+          url: https://tools.pdf24.org/zh/
+        - name: Draw.io
+          description: 流程图在线制作
+          url: https://app.diagrams.net/
+        - name: 地图汇
+          description: 地图在线标注
+          url: https://g.dituhui.com/new/template
+        - name: 幕布
+          description: 思维导图在线制作
+          url: https://mubu.com/home
+        - name: 图说
+          description: 信息图表在线制作
+          url: https://tushuo.baidu.com/
+        - name: 问卷星
+          description: 图表工具
+          url: https://www.wjx.cn/
+        - name: 学吧导航
+          description: 在线学习导航
+          url: https://www.xue8nav.com/
     - name: 平面设计
       sites:
         - name: 90设计💰
