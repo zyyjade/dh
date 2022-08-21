@@ -23,15 +23,18 @@ google_analytics: "G-EXE1PJ8CR2"
 webstack:
   search:
     enabled: true
-    default: google
+    default: baidu
     # 可选的搜索引擎
     engines:
-      - google
-      - github
-      - weibo
       - baidu
-      - bilibili
+      - bing
+      - sogou
+      - yandex
       - zhihu
+      - douban
+      - weibo
+      - github
+      - bilibili
 
 content:
   categories:
