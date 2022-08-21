@@ -85,7 +85,7 @@ content:
         - name: Font2u
           description: 免费字体
           url: https://zh.fonts2u.com/
-         - name: 猫啃网
+        - name: 猫啃网
           description: 免费字体
           url: https://www.maoken.com/
         - name: Gradient
