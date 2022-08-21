@@ -35,6 +35,35 @@ webstack:
 
 content:
   categories:
+    - name: 在线办公
+      sites:
+        - name: 199IT👍
+          description: 互联网数据资讯
+          url: http://www.199it.com/
+        - name: Addog👍
+          description: 广告人网址导航
+          url: https://www.addog.vip/
+        - name: 潮运营
+          description: 电商运营导航
+          url: http://www.chaoyunying.com/
+        - name: 今日热榜👍
+          description: 热点榜单
+          url: https://tophub.today/
+        - name: 考拉新媒体
+          description: 新媒体运营导航
+          url: https://www.kaolamedia.com/
+        - name: 果汁排行榜
+          description: 热点排行
+          url: http://guozhivip.com/rank/
+        - name: 新榜
+          description: 新媒体综合运营平台
+          url: https://www.newrank.cn/
+        - name: 知微事见
+          description: 微博热点趋势分析
+          url: https://ef.zhiweidata.com/
+        - name: 199IT
+          description: Awwwards talent and effort of the best developers, designers and web agencies in the world.
+          url: https://www.awwwards.com/
     - name: 平面设计
       sites:
         - name: 90设计💰
@@ -121,17 +150,39 @@ content:
         - name: 淘声网👍
           description: 音频素材
           url: https://www.tosound.com/
-        - name: Collect UI
-          description: Daily inspiration collected from daily ui archive and beyond.
-          url: http://collectui.com/
-        - name: UI uigreat
-          description: APP界面截图参考
-          url: http://ui.uigreat.com/
-        - name: Android Niceties
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-          url: http://androidniceties.tumblr.com/
-    - name: 网页灵感
-      sites:
-        - name: Awwwards
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-          url: https://www.awwwards.com/
+        - name: Canva
+          description: 在线设计
+          url: https://www.canva.cn/
+        - name: ClippingMagic👍
+          description: 在线抠图
+          url: https://zh.clippingmagic.com/
+        - name: ILoveIMG
+          description: 图像编辑
+          url: https://www.iloveimg.com/zh-cn
+        - name: Photopea
+          description: 在线PS
+          url: https://www.photopea.com/
+        - name: Pixlr
+          description: 图像编辑
+          url: https://pixlr.com/cn/x/#home
+        - name: SooGIF
+          description: Gif编辑
+          url: https://www.soogif.com/tool-page
+        - name: 字幕拼接
+          description: 电影字幕拼接
+          url: http://screenshots.hpday.cn/
+        - name: Screely
+          description: 图片特效
+          url: https://www.screely.com/
+        - name: WeaveSilk
+          description: 图片特效
+          url: http://weavesilk.com/
+        - name: WorldCloud
+          description: 图片特效
+          url: https://www.jasondavies.com/wordcloud/
+        - name: 美寄词云💰
+          description: 图片特效
+          url: https://www.moage.cn/wordart?union=2&redirect_from=www.word2art.com/start
+        - name: 亚赛设计
+          description: 图片特效
+          url: https://wangyasai.github.io/designtools.html
