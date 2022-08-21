@@ -28,13 +28,10 @@ webstack:
     engines:
       - baidu
       - bing
-      - sogou
-      - yandex
       - zhihu
       - douban
       - weibo
       - github
-      - bilibili
 
 content:
   categories:
