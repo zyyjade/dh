@@ -35,10 +35,10 @@ function search() {
     var listIndex = -1;
     var hotList = 0;
     var searchData = {
-        "thisSearch": "https://www.google.com/search?q=",
+        "thisSearch": "https://www.baidu.com/s?wd=",
         "thisSearchIcon": "https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png",
         "hotStatus": true,
-        "data": [{"name":"谷歌","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png')  -105px 0px","position":"-40px 0px","url":"https://www.google.com/search?q="},{"name":"GitHub","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -80px -175px","position":"0px -280px","url":"https://github.com/search?utf8=✓\u0026q="},{"name":"微博","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -80px -125px","position":"0px -200px","url":"https://s.weibo.com/weibo/"},{"name":"百度","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -80px 0px","position":"0px 0px","url":"https://www.baidu.com/s?wd="},{"name":"B站","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -105px -125px","position":"-40px -200px","url":"http://search.bilibili.com/all?keyword="},{"name":"知乎","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -105px -100px","position":"-40px -160px","url":"https://www.zhihu.com/search?type=content\u0026q="}]
+        "data": [{"name":"百度","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -80px 0px","position":"0px 0px","url":"https://www.baidu.com/s?wd="},{"name":"必应","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png')  -80px -25px","position":"0px -40px","url":"https://cn.bing.com/search?q="},{"name":"知乎","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -105px -100px","position":"-40px -160px","url":"https://www.zhihu.com/search?type=content\u0026q="},{"name":"豆瓣","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -80px -150px","position":"0px -240px","url":"https://www.douban.com/search?source=suggest\u0026q="},{"name":"微博","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -80px -125px","position":"0px -200px","url":"https://s.weibo.com/weibo/"},{"name":"GitHub","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -80px -175px","position":"0px -280px","url":"https://github.com/search?utf8=✓\u0026q="},{"name":"B站","img":"url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -105px -125px","position":"-40px -200px","url":"http://search.bilibili.com/all?keyword="}]
     };
     var localSearchData = localStorage.getItem("searchData");
     if (localSearchData) {
@@ -249,7 +249,7 @@ function search() {
                 <ul id="main-menu" class="main-menu">
                     <li>
                         <a href="#网上冲浪" class="smooth">
-                            <i class="linecons-cloud"></i>
+                            <i class="linecons-star"></i>
                             <span class="title">网上冲浪</span>
                         </a>
                     </li>
@@ -261,37 +261,37 @@ function search() {
                     </li>
                     <li>
                         <a href="#资源搜索" class="smooth">
-                            <i class="linecons-search"></i>
+                            <i class="linecons-star"></i>
                             <span class="title">资源搜索</span>
                         </a>
                     </li>
                     <li>
                         <a href="#图片检索" class="smooth">
-                            <i class="linecons-photo"></i>
+                            <i class="linecons-star"></i>
                             <span class="title">图片检索</span>
                         </a>
                     </li>
                     <li>
                         <a href="#软件搜索" class="smooth">
-                            <i class="linecons-bookmark"></i>
+                            <i class="linecons-star"></i>
                             <span class="title">软件搜索</span>
                         </a>
                     </li>
                     <li>
                         <a href="#在线办公" class="smooth">
-                            <i class="linecons-address"></i>
+                            <i class="linecons-star"></i>
                             <span class="title">在线办公</span>
                         </a>
                     </li>
                     <li>
                         <a href="#平面设计" class="smooth">
-                            <i class="linecons-brush"></i>
+                            <i class="linecons-star"></i>
                             <span class="title">平面设计</span>
                         </a>
                     </li>
                     <li>
                         <a href="#其他网站" class="smooth">
-                            <i class="linecons-settings"></i>
+                            <i class="linecons-star"></i>
                             <span class="title">其他网站</span>
                         </a>
                     </li>
@@ -320,7 +320,7 @@ function search() {
             <section class="sousuo">
               <div class="search">
                 <div class="search-box">
-                  <span class="search-icon" style="background: url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') -40px 0px; opacity: 1;"></span>
+                  <span class="search-icon" style="background: url('https://fastly.jsdelivr.net/gh/x1ah/webstack-assets@master/assets/images/search_icon.png') 0px 0px; opacity: 1;"></span>
                   <input type="text" id="txt" class="search-input" autocomplete="off" placeholder="请输入关键字，按回车 / Enter 搜索">
                   <button class="search-btn" id="search-btn"><i class="fa fa-search"></i></button>
                 </div>
