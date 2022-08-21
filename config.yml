@@ -35,6 +35,322 @@ webstack:
 
 content:
   categories:
+    - name: 网上冲浪
+      sites:
+        - name: Crx搜搜
+          description: 浏览器扩展商店
+          url: https://www.crxsoso.com/
+        - name: Mycroft
+          description: 搜索引擎插件
+          url: https://mycroftproject.com/
+        - name: Greasy Fork
+          description: 用户脚本大全
+          url: https://greasyfork.org/zh-CN
+        - name: Auto Tab Discard
+          description: 扩展-自动标签丢弃
+          url: https://github.com/rNeomy/auto-tab-discard
+        - name: Bitwarden
+          description: 扩展-密码管理
+          url: https://bitwarden.com/download/
+        - name: ContextSearch
+          description: 扩展-右键搜索管理
+          url: https://github.com/ssborbis/ContextSearch-web-ext
+        - name: Cookie AutoDelete
+          description: 扩展-Cookie自动清理
+          url: https://github.com/Cookie-AutoDelete/Cookie-AutoDelete
+        - name: Floccus
+          description: 扩展-书签自动同步
+          url: https://floccus.org/download/
+        - name: Glitter Drag
+          description: 扩展-鼠标拖拽
+          url: https://github.com/harytfw/glitterdrag
+        - name: Header Editor
+          description: 扩展-浏览器请求管理
+          url: https://github.com/FirefoxBar/HeaderEditor
+        - name: HSL Downloader
+          description: 扩展-m3u8视频下载
+          url: https://mybrowseraddon.com/hls-downloader.html
+        - name: IDM Integration Module
+          description: 扩展-IDM下载器集成
+          url:https://www.internetdownloadmanager.com/
+        - name: Tampermonkey
+          description: 扩展-脚本管理
+          url: https://www.tampermonkey.net/?ext=dhdg&browser=edge
+        - name: Translate Web Pages
+          description: 扩展-网页翻译
+          url: https://github.com/FilipePS/Traduzir-paginas-web
+        - name: uBlock Origin
+          description: 扩展-广告拦截
+          url: https://github.com/gorhill/uBlock
+        - name: xStyle
+          description: 扩展-样式管理
+          url: https://github.com/FirefoxBar/xStyle
+    - name: 电脑软件
+      sites:
+        - name: Context Menu Manager
+          description: 开源-右键菜单管理
+          url: https://github.com/BluePointLilac/ContextMenuManager/releases
+        - name: CMWTAT
+          description: 开源-win10系统数字激活
+          url: https://github.com/TGSAN/CMWTAT_Digital_Edition/releases
+        - name: Dism++
+          description: 开源-系统注册表修改
+          url: https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.1
+        - name: Ditto
+          description: 开源-剪贴板管理
+          url: https://github.com/sabrogden/Ditto/releases/tag/3.24.214.0
+        - name: Draw.io
+          description: 开源-流程图制作
+          url: https://github.com/jgraph/drawio-desktop/releases/tag/v19.0.3
+        - name: HEU KMS Activator
+          description: 开源-系统和Office激活
+          url: https://github.com/zbezj/HEU_KMS_Activator/releases
+        - name: Kiwi浏览器
+          description: 开源-Chromium内核浏览器app
+          url: https://github.com/kiwibrowser/src.next/releases
+        - name: Mem Reduct
+          description: 开源-内存自动清理
+          url: https://github.com/henrypp/memreduct/releases/tag/v.3.4
+        - name: Mozbackup
+          description: 开源-火狐浏览器备份
+          url: http://mozbackup.jasnapaka.com/download.php
+        - name: MusicPlayer2
+          description: 开源-本地音乐播放器
+          url: https://github.com/zhongyang219/MusicPlayer2/releases
+        - name: N_m3u8DL-CLI
+          description: 开源-m3u8视频下载软件
+          url: https://github.com/nilaoda/N_m3u8DL-CLI/releases
+        - name: Qttabbar
+          description: 开源-资源管理器多标签
+          url: https://github.com/indiff/qttabbar/releases
+        - name: TranslucentTB
+          description: 开源-任务栏透明
+          url: https://github.com/TranslucentTB/TranslucentTB/releases
+        - name: 椒盐音乐
+          description: 开源-本地音乐播放app
+          url: https://github.com/Moriafly/SaltPlayerSource/releases
+        - name: 阅读
+          description: 开源-多源小说阅读app
+          url: https://github.com/gedoor/legado/releases
+        - name: 360安全卫士极速版
+          description: 免费-安全杀毒软件
+          url: https://weishi.360.cn/jisu/?source=homepage/
+        - name: Edge
+          description: 免费-Chromium内核浏览器
+          url: https://www.microsoft.com/zh-cn/edge?r=1
+        - name: Firefox
+          description: 免费-Gecko内核浏览器
+          url: http://www.firefox.com.cn/download/#product-desktop-release
+        - name: WPS
+          description: 免费-办公软件
+          url: https://www.wps.cn/
+        - name: 阿里云盘
+          description: 免费-文件共享平台
+          url: https://www.aliyundrive.com/download
+        - name: 百度网盘
+          description: 免费-文件共享平台
+          url: https://pan.baidu.com/download#win
+        - name: 酷狗音乐
+          description: 免费-音乐播放器
+          url: https://www.kugou.com/
+        - name: 搜狗输入法
+          description: 免费-拼音输入法
+          url: https://shurufa.sogou.com/
+        - name: 腾讯QQ
+          description: 免费-聊天通讯
+          url: https://im.qq.com/index
+        - name: 腾讯微信
+          description: 免费-聊天通讯
+          url: https://weixin.qq.com/
+        - name: Calibre
+          description: 免费-电子书管理
+          url: https://calibre-ebook.com/
+        - name: Everything
+          description: 免费-基于名称快速定位文件和文件夹
+          url: https://www.voidtools.com/zh-cn/
+        - name: Geek Uninstaller
+          description: 免费-软件卸载
+          url: https://geekuninstaller.com/download
+        - name: Icaros
+          description: 免费-资源管理器缩略图管理
+          url: https://shark007.net/forum/Forum-Icaros-Development
+        - name: MSDN新站
+          description: 免费-系统镜像下载
+          url: https://next.itellyou.cn/
+        - name: MusicTag
+          description: 免费-歌曲信息补全
+          url: https://www.cnblogs.com/vinlxc/p/11347744.html
+        - name: Potplayer
+          description: 免费-本地视频播放器
+          url: http://potplayer.tv/
+        - name: Steamcommunity
+          description: 免费-github访问加速
+          url: https://www.dogfight360.com/blog/686/
+        - name: ReNamer
+          description: 免费-文件重命名软件
+          url: http://www.den4b.com/products/renamer
+        - name: 优启通
+          description: 免费-PE重装系统
+          url: https://www.upe.net/
+        - name: 2345看图王💰
+          description: 破解-看图管理
+          url: https://pic.2345.cc/
+        - name: Adobe
+          description: 破解-adobe全家桶
+          url: https://weibo.com/u/1112829033
+        - name: Bandizip
+          description: 破解-解压缩软件
+          url: https://www.423down.com/9735.html
+        - name: CorelDRAW💰
+          description: 破解-图形设计软件
+          url: https://www.coreldraw.com/cn/
+        - name: FSCapture💰
+          description: 破解-截图管理
+          url: https://www.faststonecapture.cn/download
+        - name: IDM💰
+          description: 破解-多线程下载软件
+          url: https://www.idmchina.net/
+        - name: MindMaster💰
+          description: 破解-思维导图软件
+          url: https://www.edrawsoft.cn/mindmaster/ad.html?channel=baidu
+        - name: Office💰
+          description: 破解-办公软件
+          url: https://www.office.com/
+        - name: Office Tab💰
+          description: 破解-office多标签
+          url: https://apsgo.com/store/product/office-tab
+        - name: 方方格子💰
+          description: 破解-excel工具箱
+          url: http://www.ffcell.com/
+    - name: 资源搜索
+      sites:
+        - name: UP云搜
+          description: 网盘-云盘资源搜索
+          url: https://www.upyunso.com/
+        - name: 橘子盘搜
+          description: 网盘-影视资源搜索
+          url: https://www.nmme.cc/
+        - name: 奈斯搜索👍🔑
+          description: 网盘-阿里云盘资源搜索
+          url: https://www.niceso.fun/
+        - name: 盘他一下🔑
+          description: 网盘-云盘资源搜索
+          url: http://panother.com/
+        - name: 优聚搜🔑
+          description: 网盘-云盘资源搜索
+          url: https://jujuso.com/
+        - name: Lorefree
+          description: 书籍-去中心化电子书共享平台
+          url: https://ebook2.lorefree.com/
+        - name: TheFuture
+          description: 书籍-免费电子书下载
+          url: https://bks.thefuture.top/
+        - name: 国家图书馆
+          description: 书籍-图书信息查询
+          url: http://opac.nlc.cn/F
+        - name: 鸠摩搜索
+          description: 书籍-文档搜索引擎
+          url: https://www.jiumodiary.com/
+        - name: 书享家
+          description: 书籍-电子书下载导航
+          url: http://shuxiangjia.cn/
+        - name: 搜书网
+          description: 书籍-免费电子书下载
+          url: https://www.soushu.vip/
+        - name: 淘链客
+          description: 书籍-外链资源聚合搜索引擎
+          url: https://toplinks.cc/s/
+        - name: 资源帝
+          description: 书籍-电子书导航
+          url: http://shu.ziyuandi.cn/
+        - name: 7080网
+          description: 影视-影视聚合搜索
+          url: https://7080.wang/index.html
+        - name: 茶杯狐👍
+          description: 影视-影视聚合搜索
+          url: https://cupfox.app/
+        - name: 电影狗
+          description: 影视-影视聚合搜索
+          url: https://www.dianyinggou.com/
+        - name: 影视森林
+          description: 影视-影视导航
+          url: http://www.549.tv/
+        - name: MyFreeMP3
+          description: 音乐-mp3免费下载
+          url: http://tool.liumingye.cn/music/?page=searchPage
+        - name: 下歌吧👍🔑
+          description: 音乐-mp3免费下载
+          url: https://music.y444.cn/#/
+        - name: 无损音乐👍🔑
+          description: 音乐-mp3免费下载
+          url: https://flac.life/
+    - name: 图片检索
+      sites:
+        - name: FreeImages
+          description: 无版权免费图片
+          url: https://www.freeimages.com/
+        - name: Pexels👍
+          description: 无版权免费图片
+          url: https://www.pexels.com/zh-cn/
+        - name: Pixabay👍
+          description: 无版权免费图片
+          url: https://pixabay.com/zh/
+        - name: StockSnap
+          description: 无版权免费图片
+          url: https://stocksnap.io/
+        - name: Unsplash👍
+          description: 无版权免费图片
+          url: https://unsplash.com/
+        - name: 花瓣
+          description: 创意灵感
+          url: https://huaban.com/
+        - name: Skuawk
+          description: 摄影图片欣赏
+          url: https://skuawk.com/
+        - name: Wallhaven
+          description: 壁纸图片下载
+          url: https://wallhaven.cc/
+        - name: 在线壁纸
+          description: 壁纸图片下载
+          url: https://bizhi.vercel.app/
+        - name: SooGIF
+          description: gif动图网
+          url: https://www.soogif.com/
+        - name: 逗比拯救世界
+          description: 表情包
+          url: https://www.dbbqb.com/
+        - name: 搜狗表情
+          description: 表情包
+          url: https://pic.sogou.com/pic/emo/index.jsp
+        - name: Yandex识图
+          description: 在线识图 
+          url: https://yandex.com/images/
+        - name: 百度识图
+          description: 在线识图
+          url: https://graph.baidu.com/pcpage/index?tpl_from=pc
+        - name: 搜狗识图
+          description: 在线识图
+          url: https://pic.sogou.com/
+    - name: 软件搜索
+      sites:
+        - name: 423Down
+          description: 电脑、手机软件下载
+          url: https://www.423down.com/
+        - name: lrepacks
+          description: 俄罗斯便携式软件下载
+          url: https://lrepacks.net/
+        - name: Liberkey
+          description: 便携式软件下载
+          url: https://www.liberkey.com/en.html
+        - name: 佛系软件
+          description: Windows、macOS破解软件下载
+          url: https://foxirj.com/
+        - name: 果核剥壳
+          description: 绿色软件下载
+          url: https://www.ghxi.com/
+        - name: 亿破姐
+          description: 电脑、手机软件下载
+          url: https://www.ypojie.com/
     - name: 在线办公
       sites:
         - name: 199IT👍
@@ -61,7 +377,7 @@ content:
         - name: 知微事见
           description: 微博热点趋势分析
           url: https://ef.zhiweidata.com/
-        - name: HiPPTer
+        - name: HiPPTer👍
           description: PPT资源导航
           url: http://www.hippter.com/
         - name: ILovePDF
@@ -129,6 +445,9 @@ content:
         - name: 图鱼
           description: 背景素材
           url: https://www.hituyu.com/
+        - name: Linecons
+          description: 信标图标
+          url: https://www.aigei.com/view/110837.html?page=4#resContainer
         - name: 100Font
           description: 免费字体
           url: https://www.100font.com/
@@ -210,3 +529,26 @@ content:
         - name: 亚赛设计
           description: 图片特效
           url: https://wangyasai.github.io/designtools.html
+    - name: 其他网站
+      sites:
+        - name: 阿虚同学的储物间
+          description: 网络干货
+          url: https://axutongxue.com/
+        - name: 奔跑中的奶酪
+          description: 网络干货
+          url: https://www.runningcheese.com/overview
+        - name: IP管家
+          description: 专利商标查询
+          url: https://www.ip.top/
+        - name: 打假导航
+          description: 国家官方平台导航
+          url: http://www.dajiadaohang.com/
+        - name: 风鸟查询
+          description: 企业信息免费查询
+          url: https://www.riskbird.com/
+        - name: 企查查
+          description: 企业工商信息查询
+          url: https://www.qcc.com/
+        - name: 阳光政务平台
+          description: 企业项目申报
+          url: https://pro.gdstc.gd.gov.cn/egrantweb/index
