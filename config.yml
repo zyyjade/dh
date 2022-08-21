@@ -72,7 +72,7 @@ content:
           url: https://mybrowseraddon.com/hls-downloader.html
         - name: IDM Integration Module
           description: 扩展-IDM下载器集成
-          url:https://www.internetdownloadmanager.com/
+          url: https://www.internetdownloadmanager.com/
         - name: Tampermonkey
           description: 扩展-脚本管理
           url: https://www.tampermonkey.net/?ext=dhdg&browser=edge
