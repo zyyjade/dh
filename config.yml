@@ -102,6 +102,12 @@ content:
         - name: Draw.io
           description: 开源-流程图制作
           url: https://github.com/jgraph/drawio-desktop/releases/tag/v19.0.3
+        - name: Git
+          description: 开源-分布式版本控制系统
+          url: https://git-scm.com/
+        - name: Gridea
+          description: 开源-静态博客写作客户端
+          url: https://gridea.dev/
         - name: HEU KMS Activator
           description: 开源-系统和Office激活
           url: https://github.com/zbezj/HEU_KMS_Activator/releases
