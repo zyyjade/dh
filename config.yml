@@ -120,6 +120,9 @@ content:
         - name: N_m3u8DL-CLI
           description: 开源-m3u8视频下载软件
           url: https://github.com/nilaoda/N_m3u8DL-CLI/releases
+        - name: Notepad2
+          description: 开源-windows文本编辑器
+          url: https://github.com/zufuliu/notepad2/releases/
         - name: Qttabbar
           description: 开源-资源管理器多标签
           url: https://github.com/indiff/qttabbar/releases
@@ -219,6 +222,9 @@ content:
         - name: Office Tab💰
           description: 破解-office多标签
           url: https://apsgo.com/store/product/office-tab
+        - name: Typora💰
+          description: 破解-markdown编辑器和阅读器
+          url: https://typoraio.cn/
         - name: 方方格子💰
           description: 破解-excel工具箱
           url: http://www.ffcell.com/
