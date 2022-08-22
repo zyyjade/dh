@@ -85,7 +85,7 @@ content:
         - name: xStyle
           description: 扩展-样式管理
           url: https://github.com/FirefoxBar/xStyle
-    - name: 💾开源软件
+    - name: 🌈开源软件
       sites:
         - name: Context Menu Manager
           description: 开源-右键菜单管理
@@ -135,7 +135,7 @@ content:
         - name: 阅读
           description: 开源-多源小说阅读app
           url: https://github.com/gedoor/legado/releases
-    - name: 💾免费软件
+    - name: 🌈免费软件
       sites:
         - name: 360安全卫士极速版
           description: 免费-安全杀毒软件
@@ -197,7 +197,7 @@ content:
         - name: 优启通
           description: 免费-PE重装系统
           url: https://www.upe.net/
-    - name: 💾破解软件
+    - name: 🌈破解软件
       sites:
         - name: 2345看图王💰
           description: 破解-看图管理
