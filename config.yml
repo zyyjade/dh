@@ -158,7 +158,7 @@ content:
           url: https://shurufa.sogou.com/
         - name: 腾讯QQ
           description: 免费-聊天通讯
-          url: https://im.qq.com/index
+          url: https://im.qq.com/download
         - name: 腾讯微信
           description: 免费-聊天通讯
           url: https://weixin.qq.com/
