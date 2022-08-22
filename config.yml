@@ -35,7 +35,7 @@ webstack:
 
 content:
   categories:
-    - name: 上网·拓展脚本
+    - name: 🔖拓展脚本
       sites:
         - name: Crx搜搜
           description: 浏览器扩展商店
@@ -85,7 +85,7 @@ content:
         - name: xStyle
           description: 扩展-样式管理
           url: https://github.com/FirefoxBar/xStyle
-    - name: 电脑·开源软件
+    - name: 💾开源软件
       sites:
         - name: Context Menu Manager
           description: 开源-右键菜单管理
@@ -135,7 +135,7 @@ content:
         - name: 阅读
           description: 开源-多源小说阅读app
           url: https://github.com/gedoor/legado/releases
-    - name: 电脑·免费软件
+    - name: 💾免费软件
       sites:
         - name: 360安全卫士极速版
           description: 免费-安全杀毒软件
@@ -197,7 +197,7 @@ content:
         - name: 优启通
           description: 免费-PE重装系统
           url: https://www.upe.net/
-    - name: 电脑·破解软件
+    - name: 💾破解软件
       sites:
         - name: 2345看图王💰
           description: 破解-看图管理
@@ -232,7 +232,7 @@ content:
         - name: 方方格子💰
           description: 破解-excel工具箱
           url: http://www.ffcell.com/
-    - name: 网络·资源搜索
+    - name:🔍资源搜索
       sites:
         - name: UP云搜
           description: 网盘-云盘资源搜索
@@ -294,7 +294,7 @@ content:
         - name: 无损音乐👍🔑
           description: 音乐-mp3免费下载
           url: https://flac.life/
-    - name: 网络·图片检索
+    - name: 🔍图片检索
       sites:
         - name: FreeImages
           description: 无版权免费图片
@@ -341,7 +341,7 @@ content:
         - name: 搜狗识图
           description: 在线识图
           url: https://pic.sogou.com/
-    - name: 网络·软件搜索
+    - name: 🔍软件搜索
       sites:
         - name: 423Down
           description: 电脑、手机软件下载
@@ -361,7 +361,7 @@ content:
         - name: 亿破姐
           description: 电脑、手机软件下载
           url: https://www.ypojie.com/
-    - name: 实用·在线办公
+    - name: 🎯在线办公
       sites:
         - name: 199IT👍
           description: 互联网数据资讯
@@ -414,7 +414,7 @@ content:
         - name: 学吧导航
           description: 在线学习导航
           url: https://www.xue8nav.com/
-    - name: 实用·平面设计
+    - name: 🎯平面设计
       sites:
         - name: 90设计💰
           description: 创意来源
@@ -539,7 +539,7 @@ content:
         - name: 亚赛设计
           description: 图片特效
           url: https://wangyasai.github.io/designtools.html
-    - name: 实用·其他网站
+    - name: 🎯其他网站
       sites:
         - name: 阿虚同学的储物间👍
           description: 网络干货
